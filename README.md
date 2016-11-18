@@ -13,6 +13,7 @@ Run NPM Install
 Load the classesdetail.json into Mongo from the sample folder. Artdetails is sample images. This is required or you will need to add your own images.
 
 mongoimport --db gallery --collection classes --file "Folder location"/classdetails.json
+
 mongoimport --db gallery --collection artdetails --file "Folder location"/artdetails.json
 
 Load server.js to start the project.
