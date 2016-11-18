@@ -1,0 +1,484 @@
+{"_id":{"$oid":"58026422644a0e6e4da72617"},"Class1":"Drawing","Class2":"Acrylic paint","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da72618"},"Class1":"Drawing","Class2":"Acrylic paint","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72619"},"Class1":"Drawing","Class2":"Acrylic paint","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da7261b"},"Class1":"Drawing","Class2":"Acrylic paint","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da7261c"},"Class1":"Drawing","Class2":"Airbrush","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da7261d"},"Class1":"Drawing","Class2":"Airbrush","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da7261f"},"Class1":"Drawing","Class2":"Airbrush","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72620"},"Class1":"Drawing","Class2":"Airbrush","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72621"},"Class1":"Drawing","Class2":"Airbrush","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72622"},"Class1":"Drawing","Class2":"Airbrush","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72623"},"Class1":"Drawing","Class2":"Airbrush","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da72624"},"Class1":"Drawing","Class2":"Airbrush","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72625"},"Class1":"Drawing","Class2":"Airbrush","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72626"},"Class1":"Drawing","Class2":"Airbrush","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72627"},"Class1":"Drawing","Class2":"Airbrush","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72628"},"Class1":"Drawing","Class2":"Chalk","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72629"},"Class1":"Drawing","Class2":"Acrylic paint","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da7262a"},"Class1":"Drawing","Class2":"Acrylic paint","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da7262b"},"Class1":"Drawing","Class2":"Acrylic paint","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da7262c"},"Class1":"Drawing","Class2":"Acrylic paint","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da7262d"},"Class1":"Drawing","Class2":"Acrylic paint","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da7262e"},"Class1":"Drawing","Class2":"Acrylic paint","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7262f"},"Class1":"Drawing","Class2":"Acrylic paint","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72630"},"Class1":"Drawing","Class2":"Chalk","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da72631"},"Class1":"Drawing","Class2":"Chalk","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da72632"},"Class1":"Drawing","Class2":"Chalk","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72633"},"Class1":"Drawing","Class2":"Chalk","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72634"},"Class1":"Drawing","Class2":"Chalk","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72635"},"Class1":"Drawing","Class2":"Chalk","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72636"},"Class1":"Drawing","Class2":"Chalk","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da72637"},"Class1":"Drawing","Class2":"Chalk","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72638"},"Class1":"Drawing","Class2":"Chalk","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72639"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7263a"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da7263b"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da7263c"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da7263d"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da7263e"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da7263f"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72640"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72641"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da72642"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da72643"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72644"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72645"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72646"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72647"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da72648"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72649"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da7264a"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da7264b"},"Class1":"Drawing","Class2":"Chalk","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da7264c"},"Class1":"Drawing","Class2":"Chalk","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da7264d"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da7264e"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da7264f"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da72650"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72651"},"Class1":"Drawing","Class2":"Charcoal (soft or hard)","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72652"},"Class1":"Drawing","Class2":"Coloured pencil","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72653"},"Class1":"Drawing","Class2":"Conte","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72654"},"Class1":"Drawing","Class2":"Conte","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da72655"},"Class1":"Drawing","Class2":"Conte","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da72656"},"Class1":"Drawing","Class2":"Conte","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72657"},"Class1":"Drawing","Class2":"Conte","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72658"},"Class1":"Drawing","Class2":"Conte","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72659"},"Class1":"Drawing","Class2":"Conte","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da7265a"},"Class1":"Drawing","Class2":"Conte","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da7265b"},"Class1":"Drawing","Class2":"Crayon","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da7265c"},"Class1":"Drawing","Class2":"Crayon","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da7265d"},"Class1":"Drawing","Class2":"Crayon","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7265e"},"Class1":"Drawing","Class2":"Crayon","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da7265f"},"Class1":"Drawing","Class2":"Crayon","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da72660"},"Class1":"Drawing","Class2":"Crayon","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72661"},"Class1":"Drawing","Class2":"Crayon","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72662"},"Class1":"Drawing","Class2":"Crayon","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72663"},"Class1":"Drawing","Class2":"Crayon","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72664"},"Class1":"Drawing","Class2":"Gouache","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72665"},"Class1":"Drawing","Class2":"Gouache","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da72666"},"Class1":"Drawing","Class2":"Gouache","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da72667"},"Class1":"Drawing","Class2":"Gouache","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72668"},"Class1":"Drawing","Class2":"Gouache","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72669"},"Class1":"Drawing","Class2":"Gouache","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7266a"},"Class1":"Drawing","Class2":"Gouache","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da7266b"},"Class1":"Drawing","Class2":"Gouache","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da7266c"},"Class1":"Drawing","Class2":"Gouache","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da7266d"},"Class1":"Drawing","Class2":"Conte","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da7266e"},"Class1":"Drawing","Class2":"Conte","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da7266f"},"Class1":"Drawing","Class2":"Conte","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72670"},"Class1":"Drawing","Class2":"Conte","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72671"},"Class1":"Drawing","Class2":"Crayon","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72672"},"Class1":"Drawing","Class2":"Crayon","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da72673"},"Class1":"Drawing","Class2":"Crayon","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da72674"},"Class1":"Drawing","Class2":"Gouache","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72675"},"Class1":"Drawing","Class2":"Gouache","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72676"},"Class1":"Drawing","Class2":"Gouache","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72677"},"Class1":"Drawing","Class2":"Graphite","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72678"},"Class1":"Drawing","Class2":"Graphite","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da72679"},"Class1":"Drawing","Class2":"Graphite","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da7267a"},"Class1":"Drawing","Class2":"Graphite","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da7267b"},"Class1":"Drawing","Class2":"Graphite","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da7267c"},"Class1":"Drawing","Class2":"Graphite","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7267d"},"Class1":"Drawing","Class2":"Human finger","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da7267e"},"Class1":"Drawing","Class2":"Human finger","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da7267f"},"Class1":"Drawing","Class2":"Human finger","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72680"},"Class1":"Drawing","Class2":"Human finger","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72681"},"Class1":"Drawing","Class2":"Human finger","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72682"},"Class1":"Drawing","Class2":"Graphite","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72683"},"Class1":"Drawing","Class2":"Human finger","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72684"},"Class1":"Drawing","Class2":"Human finger","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72685"},"Class1":"Drawing","Class2":"Human finger","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da72686"},"Class1":"Drawing","Class2":"Human finger","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72687"},"Class1":"Drawing","Class2":"Human finger","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72688"},"Class1":"Drawing","Class2":"Graphite","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72689"},"Class1":"Drawing","Class2":"Marker","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da7268a"},"Class1":"Drawing","Class2":"Marker","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da7268b"},"Class1":"Drawing","Class2":"Marker","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da7268c"},"Class1":"Drawing","Class2":"Marker","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da7268d"},"Class1":"Drawing","Class2":"Marker","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da7268e"},"Class1":"Drawing","Class2":"Marker","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7268f"},"Class1":"Drawing","Class2":"Marker","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72690"},"Class1":"Drawing","Class2":"Graphite","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72691"},"Class1":"Drawing","Class2":"Graphite","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da72692"},"Class1":"Drawing","Class2":"Human finger","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72693"},"Class1":"Drawing","Class2":"Graphite","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72694"},"Class1":"Drawing","Class2":"Graphite","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72695"},"Class1":"Drawing","Class2":"Human finger","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72696"},"Class1":"Drawing","Class2":"Marker","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72697"},"Class1":"Drawing","Class2":"Marker","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da72698"},"Class1":"Drawing","Class2":"Marker","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72699"},"Class1":"Drawing","Class2":"Marker","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da7269a"},"Class1":"Drawing","Class2":"Marker","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da7269b"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da7269c"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da7269d"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da7269e"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da7269f"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da726a0"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da726a1"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da726a2"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da726a3"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da726a4"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da726a5"},"Class1":"Drawing","Class2":"Pastel","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da726a6"},"Class1":"Drawing","Class2":"Pastel","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da726a7"},"Class1":"Drawing","Class2":"Pastel","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da726a8"},"Class1":"Drawing","Class2":"Pastel","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da726a9"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da726aa"},"Class1":"Drawing","Class2":"Pastel","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da726ab"},"Class1":"Drawing","Class2":"Pastel","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da726ac"},"Class1":"Drawing","Class2":"Pastel","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da726ad"},"Class1":"Drawing","Class2":"Pastel","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726ae"},"Class1":"Drawing","Class2":"Pastel","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da726af"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da726b0"},"Class1":"Drawing","Class2":"Oil paint","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726b1"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da726b2"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da726b3"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da726b4"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da726b5"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da726b6"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da726b7"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da726b8"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da726b9"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da726ba"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726bb"},"Class1":"Drawing","Class2":"Pencil","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da726bc"},"Class1":"Drawing","Class2":"Pastel","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da726bd"},"Class1":"Drawing","Class2":"Pen and ink","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da726be"},"Class1":"Drawing","Class2":"Pencil","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da726bf"},"Class1":"Drawing","Class2":"Pencil","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da726c0"},"Class1":"Drawing","Class2":"Pencil","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da726c1"},"Class1":"Drawing","Class2":"Pencil","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da726c2"},"Class1":"Drawing","Class2":"Pastel","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da726c3"},"Class1":"Drawing","Class2":"Pencil","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da726c4"},"Class1":"Drawing","Class2":"Pencil","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da726c5"},"Class1":"Drawing","Class2":"Pencil","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da726c6"},"Class1":"Drawing","Class2":"Pencil","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726c7"},"Class1":"Drawing","Class2":"Sand","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da726c8"},"Class1":"Drawing","Class2":"Sand","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da726c9"},"Class1":"Drawing","Class2":"Sand","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da726ca"},"Class1":"Drawing","Class2":"Sand","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da726cb"},"Class1":"Drawing","Class2":"Sand","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da726cc"},"Class1":"Drawing","Class2":"Sand","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da726cd"},"Class1":"Drawing","Class2":"Sand","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da726ce"},"Class1":"Drawing","Class2":"Sand","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da726cf"},"Class1":"Drawing","Class2":"Sand","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da726d0"},"Class1":"Drawing","Class2":"Sand","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da726d1"},"Class1":"Drawing","Class2":"Sand","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726d2"},"Class1":"Drawing","Class2":"Sand","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da726d3"},"Class1":"Drawing","Class2":"Pastel","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da726d4"},"Class1":"Drawing","Class2":"Pencil","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da726d5"},"Class1":"Drawing","Class2":"Tempera","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da726d6"},"Class1":"Drawing","Class2":"Pencil","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da726d7"},"Class1":"Drawing","Class2":"Pencil","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da726d8"},"Class1":"Drawing","Class2":"Tempera","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da726d9"},"Class1":"Drawing","Class2":"Tempera","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da726da"},"Class1":"Drawing","Class2":"Tempera","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da726db"},"Class1":"Drawing","Class2":"Tempera","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da726dc"},"Class1":"Drawing","Class2":"Tempera","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da726dd"},"Class1":"Drawing","Class2":"Tempera","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da726de"},"Class1":"Drawing","Class2":"Tempera","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da726df"},"Class1":"Drawing","Class2":"Tempera","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da726e0"},"Class1":"Drawing","Class2":"Tempera","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da726e1"},"Class1":"Drawing","Class2":"Tempera","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726e2"},"Class1":"Drawing","Class2":"Tempera","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da726e3"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Card stock"}
+{"_id":{"$oid":"58026422644a0e6e4da726e4"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da726e5"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Fabric"}
+{"_id":{"$oid":"58026422644a0e6e4da726e6"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da726e7"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da726e8"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da726e9"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da726ea"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da726eb"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da726ec"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Scratchboard"}
+{"_id":{"$oid":"58026422644a0e6e4da726ed"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da726ee"},"Class1":"Drawing","Class2":"Watercolor","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726ef"},"Class1":"Mural techniques","Class2":"Aerosol paint","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726f1"},"Class1":"Mural techniques","Class2":"Digital painting","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726f2"},"Class1":"Mural techniques","Class2":"Fresco","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726f3"},"Class1":"Mural techniques","Class2":"Image projector","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726f4"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da726f5"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da726f6"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da726f7"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da726f8"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da726f9"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da726fa"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da726fb"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da726fc"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da726fd"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da726fe"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da726ff"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da72700"},"Class1":"Mural techniques","Class2":"Pounce art","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72702"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72703"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72704"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72705"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72706"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72707"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da72708"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72709"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da7270a"},"Class1":"Painting","Class2":"Fresco","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da7270b"},"Class1":"Painting","Class2":"Fresco","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da7270c"},"Class1":"Painting","Class2":"Fresco","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da7270d"},"Class1":"Painting","Class2":"Fresco","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da7270e"},"Class1":"Painting","Class2":"Fresco","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da7270f"},"Class1":"Painting","Class2":"Fresco","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72710"},"Class1":"Painting","Class2":"Fresco","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72711"},"Class1":"Painting","Class2":"Fresco","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72712"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72713"},"Class1":"Painting","Class2":"Blacklight paint","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72714"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da72715"},"Class1":"Painting","Class2":"Acrylic paint","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da72716"},"Class1":"Painting","Class2":"Gesso","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da72717"},"Class1":"Painting","Class2":"Gesso","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72718"},"Class1":"Painting","Class2":"Gesso","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72719"},"Class1":"Painting","Class2":"Gesso","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7271a"},"Class1":"Painting","Class2":"Gesso","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da7271b"},"Class1":"Painting","Class2":"Gesso","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da7271c"},"Class1":"Painting","Class2":"Gesso","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da7271d"},"Class1":"Painting","Class2":"Gesso","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da7271e"},"Class1":"Painting","Class2":"Gesso","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da7271f"},"Class1":"Painting","Class2":"Glaze","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da72720"},"Class1":"Painting","Class2":"Gouache","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72721"},"Class1":"Painting","Class2":"Ink","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da72722"},"Class1":"Painting","Class2":"Ink","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da72723"},"Class1":"Painting","Class2":"Ink","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72724"},"Class1":"Painting","Class2":"Ink","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72725"},"Class1":"Painting","Class2":"Ink","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72726"},"Class1":"Painting","Class2":"Ink","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72727"},"Class1":"Painting","Class2":"Ink","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72728"},"Class1":"Painting","Class2":"Fresco","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72729"},"Class1":"Painting","Class2":"Fresco","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da7272a"},"Class1":"Painting","Class2":"Fresco","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da7272b"},"Class1":"Painting","Class2":"Fresco","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da7272c"},"Class1":"Painting","Class2":"Gesso","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da7272d"},"Class1":"Painting","Class2":"Gesso","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da7272e"},"Class1":"Painting","Class2":"Gesso","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da7272f"},"Class1":"Painting","Class2":"Ink","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72730"},"Class1":"Painting","Class2":"Ink","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72731"},"Class1":"Painting","Class2":"Ink","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72732"},"Class1":"Painting","Class2":"Latex paint","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da72733"},"Class1":"Painting","Class2":"Latex paint","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72734"},"Class1":"Painting","Class2":"Latex paint","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da72735"},"Class1":"Painting","Class2":"Latex paint","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da72736"},"Class1":"Painting","Class2":"Latex paint","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72737"},"Class1":"Painting","Class2":"Latex paint","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72738"},"Class1":"Painting","Class2":"Magna paint","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72739"},"Class1":"Painting","Class2":"Magna paint","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da7273a"},"Class1":"Painting","Class2":"Magna paint","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da7273b"},"Class1":"Painting","Class2":"Magna paint","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da7273c"},"Class1":"Painting","Class2":"Magna paint","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da7273d"},"Class1":"Painting","Class2":"Magna paint","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7273e"},"Class1":"Painting","Class2":"Magna paint","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da7273f"},"Class1":"Painting","Class2":"Magna paint","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72740"},"Class1":"Painting","Class2":"Magna paint","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72741"},"Class1":"Painting","Class2":"Magna paint","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72742"},"Class1":"Painting","Class2":"Magna paint","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72743"},"Class1":"Painting","Class2":"Oil paint","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da72744"},"Class1":"Painting","Class2":"Oil paint","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72745"},"Class1":"Painting","Class2":"Oil paint","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da72746"},"Class1":"Painting","Class2":"Oil paint","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da72747"},"Class1":"Painting","Class2":"Oil paint","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72748"},"Class1":"Painting","Class2":"Oil paint","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72749"},"Class1":"Painting","Class2":"Oil paint","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7274a"},"Class1":"Painting","Class2":"Latex paint","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7274b"},"Class1":"Painting","Class2":"Latex paint","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da7274c"},"Class1":"Painting","Class2":"Latex paint","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da7274d"},"Class1":"Painting","Class2":"Latex paint","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da7274e"},"Class1":"Painting","Class2":"Latex paint","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da7274f"},"Class1":"Painting","Class2":"Latex paint","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72750"},"Class1":"Painting","Class2":"Magna paint","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da72751"},"Class1":"Painting","Class2":"Oil paint","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72752"},"Class1":"Painting","Class2":"Oil paint","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72753"},"Class1":"Painting","Class2":"Oil paint","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72754"},"Class1":"Painting","Class2":"Oil paint","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72755"},"Class1":"Painting","Class2":"Oil paint","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72756"},"Class1":"Painting","Class2":"Painting","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da72757"},"Class1":"Painting","Class2":"Painting","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72758"},"Class1":"Painting","Class2":"Painting","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da72759"},"Class1":"Painting","Class2":"Painting","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da7275a"},"Class1":"Painting","Class2":"Painting","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da7275b"},"Class1":"Painting","Class2":"Primer","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da7275c"},"Class1":"Painting","Class2":"Primer","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da7275d"},"Class1":"Painting","Class2":"Primer","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da7275e"},"Class1":"Painting","Class2":"Primer","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da7275f"},"Class1":"Painting","Class2":"Primer","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72760"},"Class1":"Painting","Class2":"Primer","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72761"},"Class1":"Painting","Class2":"Primer","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72762"},"Class1":"Painting","Class2":"Primer","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72763"},"Class1":"Painting","Class2":"Primer","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72764"},"Class1":"Painting","Class2":"Primer","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72765"},"Class1":"Painting","Class2":"Primer","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72766"},"Class1":"Painting","Class2":"Primer","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72767"},"Class1":"Painting","Class2":"Stencil","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da72768"},"Class1":"Painting","Class2":"Stencil","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72769"},"Class1":"Painting","Class2":"Stencil","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da7276a"},"Class1":"Painting","Class2":"Stencil","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da7276b"},"Class1":"Painting","Class2":"Stencil","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da7276c"},"Class1":"Painting","Class2":"Painting","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da7276d"},"Class1":"Painting","Class2":"Painting","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da7276e"},"Class1":"Painting","Class2":"Painting","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7276f"},"Class1":"Painting","Class2":"Painting","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72770"},"Class1":"Painting","Class2":"Painting","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72771"},"Class1":"Painting","Class2":"Painting","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72772"},"Class1":"Painting","Class2":"Painting","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72773"},"Class1":"Painting","Class2":"Stencil","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72774"},"Class1":"Painting","Class2":"Stencil","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72775"},"Class1":"Painting","Class2":"Stencil","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72776"},"Class1":"Painting","Class2":"Stencil","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72777"},"Class1":"Painting","Class2":"Stencil","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72778"},"Class1":"Painting","Class2":"Stencil","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da72779"},"Class1":"Painting","Class2":"Stencil","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da7277a"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da7277b"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da7277c"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da7277d"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da7277e"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da7277f"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72780"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da72781"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da72782"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da72783"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da72784"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72785"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72786"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72787"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72788"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72789"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da7278a"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da7278b"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da7278c"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da7278d"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da7278e"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da7278f"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da72790"},"Class1":"Painting","Class2":"Sumi-e (ink wash painting)","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72791"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da72792"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da72793"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da72794"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da72795"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da72796"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da72797"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da72798"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da72799"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da7279a"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da7279b"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da7279c"},"Class1":"Painting","Class2":"Vinyl paint (toxic/poisonous)","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da7279d"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da7279e"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da7279f"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da727a0"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da727a1"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da727a2"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da727a3"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da727a4"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da727a5"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da727a6"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da727a7"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da727a8"},"Class1":"Painting","Class2":"Vitreous enamel","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da727a9"},"Class1":"Painting","Class2":"Tempera or poster paint","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da727aa"},"Class1":"Painting","Class2":"Watercolor","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da727ab"},"Class1":"Painting","Class2":"Watercolor","Class3":"Human body"}
+{"_id":{"$oid":"58026422644a0e6e4da727ac"},"Class1":"Painting","Class2":"Watercolor","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da727ad"},"Class1":"Painting","Class2":"Watercolor","Class3":"Paper"}
+{"_id":{"$oid":"58026422644a0e6e4da727ae"},"Class1":"Painting","Class2":"Watercolor","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da727af"},"Class1":"Painting","Class2":"Watercolor","Class3":"Vellum"}
+{"_id":{"$oid":"58026422644a0e6e4da727b0"},"Class1":"Painting","Class2":"Watercolor","Class3":"Wall"}
+{"_id":{"$oid":"58026422644a0e6e4da727b1"},"Class1":"Painting","Class2":"Watercolor","Class3":"Architectural structures"}
+{"_id":{"$oid":"58026422644a0e6e4da727b2"},"Class1":"Painting","Class2":"Watercolor","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da727b3"},"Class1":"Painting","Class2":"Watercolor","Class3":"Cloth"}
+{"_id":{"$oid":"58026422644a0e6e4da727b4"},"Class1":"Painting","Class2":"Watercolor","Class3":"Canvas"}
+{"_id":{"$oid":"58026422644a0e6e4da727b5"},"Class1":"Painting","Class2":"Watercolor","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da727b7"},"Class1":"Photography","Class2":"Digital image sensor"}
+{"_id":{"$oid":"58026422644a0e6e4da727b8"},"Class1":"Photography","Class2":"Photographic film"}
+{"_id":{"$oid":"58026422644a0e6e4da727b9"},"Class1":"Photography","Class2":"Potassium dichromate"}
+{"_id":{"$oid":"58026422644a0e6e4da727ba"},"Class1":"Photography","Class2":"Potassium ferricyanide and ferric ammonium citrate"}
+{"_id":{"$oid":"58026422644a0e6e4da727bb"},"Class1":"Photography","Class2":"Silver nitrate"}
+{"_id":{"$oid":"58026422644a0e6e4da727bd"},"Class1":"Printmaking","Class2":"Aquatint"}
+{"_id":{"$oid":"58026422644a0e6e4da727be"},"Class1":"Printmaking","Class2":"Computer printing","Class3":"Dye-sublimation printer"}
+{"_id":{"$oid":"58026422644a0e6e4da727bf"},"Class1":"Printmaking","Class2":"Computer printing","Class3":"Inkjet printer"}
+{"_id":{"$oid":"58026422644a0e6e4da727c0"},"Class1":"Printmaking","Class2":"Computer printing","Class3":"Solid ink printer"}
+{"_id":{"$oid":"58026422644a0e6e4da727c1"},"Class1":"Printmaking","Class2":"Computer printing","Class3":"Laser printer"}
+{"_id":{"$oid":"58026422644a0e6e4da727c2"},"Class1":"Printmaking","Class2":"Computer printing","Class3":"Thermal printer"}
+{"_id":{"$oid":"58026422644a0e6e4da727c3"},"Class1":"Printmaking","Class2":"Computer printing"}
+{"_id":{"$oid":"58026422644a0e6e4da727c4"},"Class1":"Printmaking","Class2":"Embossing"}
+{"_id":{"$oid":"58026422644a0e6e4da727c5"},"Class1":"Printmaking","Class2":"Engraving"}
+{"_id":{"$oid":"58026422644a0e6e4da727c6"},"Class1":"Printmaking","Class2":"Etching"}
+{"_id":{"$oid":"58026422644a0e6e4da727c7"},"Class1":"Printmaking","Class2":"Intaglio (printmaking)"}
+{"_id":{"$oid":"58026422644a0e6e4da727c8"},"Class1":"Printmaking","Class2":"Letterpress (literature)"}
+{"_id":{"$oid":"58026422644a0e6e4da727c9"},"Class1":"Printmaking","Class2":"Linocut"}
+{"_id":{"$oid":"58026422644a0e6e4da727ca"},"Class1":"Printmaking","Class2":"Lithography"}
+{"_id":{"$oid":"58026422644a0e6e4da727cb"},"Class1":"Printmaking","Class2":"Offset printing"}
+{"_id":{"$oid":"58026422644a0e6e4da727cc"},"Class1":"Printmaking","Class2":"Relief printing","Class3":"Linocut"}
+{"_id":{"$oid":"58026422644a0e6e4da727cd"},"Class1":"Printmaking","Class2":"Relief printing","Class3":"Metalcut"}
+{"_id":{"$oid":"58026422644a0e6e4da727ce"},"Class1":"Printmaking","Class2":"Relief printing","Class3":"Wood engraving"}
+{"_id":{"$oid":"58026422644a0e6e4da727cf"},"Class1":"Printmaking","Class2":"Relief printing","Class3":"Relief etching"}
+{"_id":{"$oid":"58026422644a0e6e4da727d0"},"Class1":"Printmaking","Class2":"Relief printing","Class3":"Woodcut"}
+{"_id":{"$oid":"58026422644a0e6e4da727d1"},"Class1":"Printmaking","Class2":"Relief printing"}
+{"_id":{"$oid":"58026422644a0e6e4da727d2"},"Class1":"Printmaking","Class2":"Screen-printing"}
+{"_id":{"$oid":"58026422644a0e6e4da727d3"},"Class1":"Printmaking","Class2":"Woodblock printing"}
+{"_id":{"$oid":"58026422644a0e6e4da727d5"},"Class1":"Sculpture","Class2":"Assembled Media","Class3":"Beads"}
+{"_id":{"$oid":"58026422644a0e6e4da727d6"},"Class1":"Printmaking","Class2":"Photographic printing"}
+{"_id":{"$oid":"58026422644a0e6e4da727d7"},"Class1":"Sculpture","Class2":"Assembled Media","Class3":"Foil"}
+{"_id":{"$oid":"58026422644a0e6e4da727d8"},"Class1":"Sculpture","Class2":"Assembled Media","Class3":"Edible material"}
+{"_id":{"$oid":"58026422644a0e6e4da727d9"},"Class1":"Sculpture","Class2":"Assembled Media","Class3":"Found objects"}
+{"_id":{"$oid":"58026422644a0e6e4da727da"},"Class1":"Sculpture","Class2":"Assembled Media","Class3":"Glue and other adhesives"}
+{"_id":{"$oid":"58026422644a0e6e4da727db"},"Class1":"Sculpture","Class2":"Assembled Media","Class3":"Paperboard"}
+{"_id":{"$oid":"58026422644a0e6e4da727dc"},"Class1":"Sculpture","Class2":"Assembled Media","Class3":"Textile"}
+{"_id":{"$oid":"58026422644a0e6e4da727dd"},"Class1":"Sculpture","Class2":"Assembled Media","Class3":"Wire"}
+{"_id":{"$oid":"58026422644a0e6e4da727de"},"Class1":"Printmaking","Class2":"Mezzotint"}
+{"_id":{"$oid":"58026422644a0e6e4da727df"},"Class1":"Printmaking","Class2":"Moku hanga"}
+{"_id":{"$oid":"58026422644a0e6e4da727e0"},"Class1":"Printmaking","Class2":"Monotype"}
+{"_id":{"$oid":"58026422644a0e6e4da727e1"},"Class1":"Printmaking","Class2":"Planographic printing"}
+{"_id":{"$oid":"58026422644a0e6e4da727e2"},"Class1":"Printmaking","Class2":"Printing press"}
+{"_id":{"$oid":"58026422644a0e6e4da727e3"},"Class1":"Sculpture","Class2":"Assembled Media","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da727e4"},"Class1":"Sculpture","Class2":"Assembled Media","Class3":"Cardboard"}
+{"_id":{"$oid":"58026422644a0e6e4da727e5"},"Class1":"Sculpture","Class2":"Assembled Media"}
+{"_id":{"$oid":"58026422644a0e6e4da727e6"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Bone carving"}
+{"_id":{"$oid":"58026422644a0e6e4da727e7"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Bronze"}
+{"_id":{"$oid":"58026422644a0e6e4da727e8"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Gemstones"}
+{"_id":{"$oid":"58026422644a0e6e4da727e9"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Glass"}
+{"_id":{"$oid":"58026422644a0e6e4da727ea"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Granite"}
+{"_id":{"$oid":"58026422644a0e6e4da727eb"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Ice"}
+{"_id":{"$oid":"58026422644a0e6e4da727ec"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Ivory"}
+{"_id":{"$oid":"58026422644a0e6e4da727ed"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Marble"}
+{"_id":{"$oid":"58026422644a0e6e4da727ee"},"Class1":"Sculpture","Class2":"Casting Media","Class3":"Metal"}
+{"_id":{"$oid":"58026422644a0e6e4da727ef"},"Class1":"Sculpture","Class2":"Casting Media","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da727f0"},"Class1":"Sculpture","Class2":"Casting Media","Class3":"Plastic"}
+{"_id":{"$oid":"58026422644a0e6e4da727f1"},"Class1":"Sculpture","Class2":"Casting Media","Class3":"Synthetic resin"}
+{"_id":{"$oid":"58026422644a0e6e4da727f2"},"Class1":"Sculpture","Class2":"Casting Media","Class3":"Wax"}
+{"_id":{"$oid":"58026422644a0e6e4da727f3"},"Class1":"Sculpture","Class2":"Casting Media"}
+{"_id":{"$oid":"58026422644a0e6e4da727f4"},"Class1":"Sculpture","Class2":"Modeling Media","Class3":"Clay"}
+{"_id":{"$oid":"58026422644a0e6e4da727f5"},"Class1":"Sculpture","Class2":"Modeling Media","Class3":"Paper mache"}
+{"_id":{"$oid":"58026422644a0e6e4da727f6"},"Class1":"Sculpture","Class2":"Modeling Media","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da727f7"},"Class1":"Sculpture","Class2":"Modeling Media","Class3":"Sand"}
+{"_id":{"$oid":"58026422644a0e6e4da727f8"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Plaster"}
+{"_id":{"$oid":"58026422644a0e6e4da727f9"},"Class1":"Sculpture","Class2":"Modeling Media"}
+{"_id":{"$oid":"58026422644a0e6e4da727fb"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Stone"}
+{"_id":{"$oid":"58026422644a0e6e4da727fc"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Wax"}
+{"_id":{"$oid":"58026422644a0e6e4da727fd"},"Class1":"Sculpture","Class2":"Carving media","Class3":"Wood"}
+{"_id":{"$oid":"58026422644a0e6e4da727fe"},"Class1":"Sculpture","Class2":"Carving media"}
+{"_id":{"$oid":"58026422644a0e6e4da727ff"},"Class1":"Sculpture","Class2":"Casting Media","Class3":"Cement"}
+{"_id":{"$oid":"58026422644a0e6e4da72800"},"Class1":"Sculpture","Class2":"Casting Media","Class3":"Ceramics"}
+{"_id":{"$oid":"58026422644a0e6e4da72801"},"Class1":"Sculpture","Class2":"Modeling Media","Class3":"Styrofoam"}
+{"_id":{"$oid":"582e04374a797a9c43000001"},"__v":0}

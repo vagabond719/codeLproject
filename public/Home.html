@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<script src="/javascripts/jquery-3.1.1.min.js">
+	</script>
+	<link href="/BootStrap/CSS/bootstrap.css" rel="stylesheet" type="text/css">
+	<script src="/BootStrap/js/bootstrap.js">
+	</script>
+	<link href="/CSS/font-awesome.css" rel="stylesheet" type="text/css">
+	<link href="/CSS/bootstrap.css" rel="stylesheet" type="text/css">
+	<link href="/CSS/Home.css" rel="stylesheet" type="text/css">
+	<title></title>
+</head>
+<body>
+	<div class="cover">
+		<div class="navbar">
+			<div class="container">
+				<div class="navbar-header">
+					<button class="navbar-toggle" data-target="#navbar-ex-collapse" data-toggle="collapse" type="button">
+						<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> 
+						<span class="icon-bar"></span> <span class="icon-bar"></span>
+					</button> 
+					<a class="navbar-brand" href="#">
+						<span>Louvre Gallery</span>
+					</a>
+				</div>
+				<div class="collapse navbar-collapse" id="navbar-ex-collapse">
+				</div>
+			</div>
+		</div>
+		<div class="cover-image" style="background-image: url(/Images/Louvre.jpg)"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h1 class="text-inverse">Welcome</h1>
+					<p class="text-inverse">The Louvre a famous gallery in Paris France.</p><br>
+					<br>
+					<a class="btn btn-lg btn-primary" id="hidecover">Enter</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="navbar navbar-default navbar-static-top" id='smallnav'>
+		<div class="container">
+			<div class="navbar-header">
+				<button class="navbar-toggle" data-target="#navbar-ex-collapse" data-toggle="collapse" type="button">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button> 
+				<a class="navbar-brand" href="#">
+					<span>Louvre Gallery</span>
+				</a>
+				<ul class="nav navbar-nav" id="filtermenu">
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="#">Class 1<span class="caret"></span></a>
+						<ul class="dropdown-menu" id="Class1"></ul>
+					</li>
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="#">Class 2<span class="caret"></span></a>
+						<ul class="dropdown-menu" id="Class2"></ul>
+					</li>
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" href="#">Class 3<span class="caret"></span></a>
+						<ul class="dropdown-menu" id="Class3"></ul>
+					</li>
+					<li>
+						<a href="#" id="search"><strong>Search</strong></a>
+					</li>
+				</ul>
+			</div>
+			<div class="collapse navbar-collapse" id="navbar-ex-collapse">
+				<ul class="nav navbar-nav navbar-right">
+					<li class="active">
+						<a href="/">Home</a>
+					</li>
+					<li>
+						<a href="/views/index.html">Add Content</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="section" id='maincontainer'>
+		<div class="container">
+			<!-- Start of Gallery -->
+			<div class="container">
+				<div id="main_area">
+					<!-- Slider -->
+					<div class="row">
+						<div class="col-sm-6" id="slider-thumbs"></div>
+						<div class="col-sm-6">
+							<div class="col-xs-12" id="slider">
+								<!-- Top part of the slider -->
+								<div class="row">
+									<div class="col-sm-12" id="carousel-bounding-box">
+										<div class="carousel slide" id="myCarousel">
+											<!-- Carousel items -->
+										</div><!-- Carousel nav -->
+										 <a class="left carousel-control" data-slide="prev" href="#myCarousel" role="button">
+											 <span class="glyphicon glyphicon-chevron-left"></span>
+										</a> 
+										<a class="right carousel-control" data-slide="next" href="#myCarousel" role="button">
+											<span class="glyphicon glyphicon-chevron-right"></span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div><!--/Slider-->
+				</div>
+			</div>
+		</div><!-- End of Gallery -->
+	</div>
+	<footer class="section section-primary" id='footer'>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+					<h1>Welcome!</h1>
+					<p>We are trying to show as much new art from upcoming artists.</p>
+				</div>
+				<div class="col-sm-6">
+					<p class="text-info text-right"><br>
+					<br></p>
+					<div class="row">
+						<div class="col-md-12 hidden-lg hidden-md hidden-sm text-left">
+							<a href="#"><i class="fa fa-3x fa-fw fa-instagram text-inverse"></i></a> 
+							<a href="#"><i class="fa fa-3x fa-fw fa-twitter text-inverse"></i></a> 
+							<a href="#"><i class="fa fa-3x fa-fw fa-facebook text-inverse"></i></a> 
+							<a href="#"><i class="fa fa-3x fa-fw fa-github text-inverse"></i></a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 hidden-xs text-right">
+							<a href="#"><i class="fa fa-3x fa-fw fa-instagram text-inverse"></i></a> 
+							<a href="#"><i class="fa fa-3x fa-fw fa-twitter text-inverse"></i></a> 
+							<a href="#"><i class="fa fa-3x fa-fw fa-facebook text-inverse"></i></a> 
+							<a href="#"><i class="fa fa-3x fa-fw fa-github text-inverse"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<script src="/javascripts/popUL.JS">
+	</script> 
+	<script src="/javascripts/Carousel.JS">
+	</script>
+	<script src="/javascripts/Startup.JS">
+	</script>
+	<script src="/javascripts/FillGallery.JS">
+	</script>
+</body>
+</html>

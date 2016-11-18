@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>File Uploader</title>
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link href="/CSS/bootstrap.css" rel="stylesheet" type="text/css">
+  <link href="/css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="navbar navbar-default navbar-static-top" id='smallnav'>
+    <div class="container">
+      <div class="navbar-header">
+        <button class="navbar-toggle" data-target="#navbar-ex-collapse" data-toggle="collapse" type="button">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+        <a class="navbar-brand" href="#">
+          <span>Louvre Gallery</span>
+        </a>
+      </div>
+      <div class="collapse navbar-collapse" id="navbar-ex-collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="active">
+            <a href="/">Home</a>
+          </li>
+          <li>
+            <a href="/views/index.html">Add Content</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="container" id="box">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <span class="glyphicon glyphicon-cloud-upload"></span>
+            <h2>File Uploader</h2>
+            <h4></h4>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar"></div>
+            </div>
+            <button class="btn btn-lg upload-btn" type="button">Upload File</button>
+            <div id="classes">
+              <ul class="nav navbar-nav" id="filtermenu">
+                <li class="dropdown">
+                  <a class="dropdown-toggle" data-toggle="dropdown" href="#">Class 1<span class="caret"></span></a>
+                  <ul class="dropdown-menu" id="Class1"></ul>
+                </li>
+                <li class="dropdown">
+                  <a class="dropdown-toggle" data-toggle="dropdown" href="#">Class 2<span class="caret"></span></a>
+                  <ul class="dropdown-menu" id="Class2"></ul>
+                </li>
+                <li class="dropdown">
+                  <a class="dropdown-toggle" data-toggle="dropdown" href="#">Class 3<span class="caret"></span></a>
+                  <ul class="dropdown-menu" id="Class3"></ul>
+                </li>
+              </ul>
+              <div id="inputs">
+                <label for="usr">Title:</label>
+                <input type="text" class="form-control" id="title">
+                <label for="usr">Artist:</label>
+                <input type="text" class="form-control" id="artist">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <input id="upload-input" type="file" name="uploads[]" multiple="multiple"></br>
+  <footer class="section section-primary" id='footer'>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <h1></h1>
+          <p></p>
+        </div>
+        <div class="col-sm-6">
+          <p class="text-info text-right"><br>
+            <br></p>
+          <div class="row">
+            <div class="col-md-12 hidden-lg hidden-md hidden-sm text-left">
+              <a href="#"><i class="fa fa-3x fa-fw fa-instagram text-inverse"></i></a>
+              <a href="#"><i class="fa fa-3x fa-fw fa-twitter text-inverse"></i></a>
+              <a href="#"><i class="fa fa-3x fa-fw fa-facebook text-inverse"></i></a>
+              <a href="#"><i class="fa fa-3x fa-fw fa-github text-inverse"></i></a>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12 hidden-xs text-right">
+              <a href="#"><i class="fa fa-3x fa-fw fa-instagram text-inverse"></i></a>
+              <a href="#"><i class="fa fa-3x fa-fw fa-twitter text-inverse"></i></a>
+              <a href="#"><i class="fa fa-3x fa-fw fa-facebook text-inverse"></i></a>
+              <a href="#"><i class="fa fa-3x fa-fw fa-github text-inverse"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="/javascripts/jquery-3.1.1.min.js">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <link href="/BootStrap/CSS/bootstrap.css" rel="stylesheet" type="text/css">
+  <script src="/BootStrap/js/bootstrap.js">
+	</script>
+  <link href="/CSS/bootstrap.css" rel="stylesheet" type="text/css">
+  <script src="/javascripts/upload.js"></script>
+</body>
+
+</html>

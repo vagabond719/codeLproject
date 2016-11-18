@@ -1,0 +1,30 @@
+{"_id":{"$oid":"582a52b6deceb23e174e75db"},"Image":"/Images/Drawing-Chalk-Paper2.jpg","Class1":"Drawing","Class2":"Chalk","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75dc"},"Image":"/Images/Drawing-Charcoal-Paper1.jpg","Class1":"Drawing","Class2":"Charcoal","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75dd"},"Image":"/Images/Drawing-Acrylic paint-Canvas2.jpg","Class1":"Drawing","Class2":"Acrylic paint","Class3":"Canvas","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75de"},"Image":"/Images/Drawing-Acrylic paint-Paper1.jpeg","Class1":"Drawing","Class2":"Acrylic paint","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75df"},"Image":"/Images/Drawing-Charcoal-Paper2.jpg","Class1":"Drawing","Class2":"Charcoal","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75e0"},"Image":"/Images/Drawing-Coloured pencil-Paper1.jpg","Class1":"Drawing","Class2":"Coloured pencil","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75e1"},"Image":"/Images/Drawing-Coloured pencil-Paper2.jpg","Class1":"Drawing","Class2":"Coloured pencil","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75e2"},"Image":"/Images/Painting-Acrylic paint-Paper1.jpeg","Class1":"Painting","Class2":"Acrylic paint","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75e3"},"Image":"/Images/Drawing-Conte-Paper1.jpg","Class1":"Drawing","Class2":"Conte","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75e4"},"Image":"/Images/Painting-Acrylic paint-Paper2.jpg","Class1":"Painting","Class2":"Acrylic paint","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75e5"},"Image":"/Images/Painting-Oil paint-Paper1.jpg","Class1":"Painting","Class2":"Oil paint","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75e6"},"Image":"/Images/Painting-Oil paint-Paper2.jpg","Class1":"Painting","Class2":"Oil paint","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75e7"},"Image":"/Images/Painting-Oil paint-Paper3.jpg","Class1":"Painting","Class2":"Oil paint","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75e8"},"Image":"/Images/Drawing-Chalk-Paper1.jpg","Class1":"Drawing","Class2":"Chalk","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75e9"},"Image":"/Images/Drawing-Acrylic paint-Glass2.jpg","Class1":"Drawing","Class2":"Acrylic paint","Class3":"Glass","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75ea"},"Image":"/Images/Drawing-Acrylic paint-Glass1.jpg","Class1":"Drawing","Class2":"Acrylic paint","Class3":"Glass","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75eb"},"Image":"/Images/Drawing-Acrylic paint-Canvas1.jpg","Class1":"Drawing","Class2":"Acrylic paint","Class3":"Canvas","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75ec"},"Image":"/Images/Painting-Watercolor-Paper1.jpg","Class1":"Painting","Class2":"Watercolor","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75ed"},"Image":"/Images/Painting-Watercolor-Paper2.jpg","Class1":"Painting","Class2":"Watercolor","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75ee"},"Image":"/Images/Sculpture-Carving media-Bronze.jpg","Class1":"Sculpture","Class2":"Carving media","Class3":"Bronze","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75ef"},"Image":"/Images/Painting-Watercolor-Paper4.jpg","Class1":"Painting","Class2":"Watercolor","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75f0"},"Image":"/Images/Painting-Watercolor-Paper3.jpg","Class1":"Painting","Class2":"Watercolor","Class3":"Paper","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75f1"},"Image":"/Images/Sculpture-Carving media-Glass.jpg","Class1":"Sculpture","Class2":"Carving media","Class3":"Glass","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75f2"},"Image":"/Images/Sculpture-Carving media-Granite.jpg","Class1":"Sculpture","Class2":"Carving media","Class3":"Granite","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75f3"},"Image":"/Images/Sculpture-Carving media-Ice.jpg","Class1":"Sculpture","Class2":"Carving media","Class3":"Ice","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75f4"},"Image":"/Images/Sculpture-Carving media-Marble.jpg","Class1":"Sculpture","Class2":"Carving media","Class3":"Marble","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75f5"},"Image":"/Images/Sculpture-Carving media-Wood.jpg","Class1":"Sculpture","Class2":"Carving media","Class3":"Wood","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75f6"},"Image":"/Images/Sculpture-Carving media-Ivory.jpg","Class1":"Sculpture","Class2":"Carving media","Class3":"Ivory","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75f7"},"Image":"/Images/Sculpture-Modeling Media-Papier-mache.jpg","Class1":"Sculpture","Class2":"Modeling Media","Class3":"Papier mache","Artist":"Unknown","Title":"Unknown"}
+{"_id":{"$oid":"582a52b6deceb23e174e75f8"},"Image":"/Images/Sculpture-Modeling Media-Clay.jpg","Class1":"Sculpture","Class2":"Modeling Media","Class3":"Clay","Artist":"Unknown","Title":"Unknown"}

@@ -1,0 +1,48 @@
+/*Style sheet for Home.Html*/
+.hide-bullets {
+    list-style: none;
+    margin-left: -40px;
+    margin-top: 20px;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+    width: 100%;
+}
+
+.item h3 {
+    position: absolute;
+    bottom: -7px;
+    left: 1px;
+    width: 100%;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.6);
+    text-align: center;
+}
+
+#footer {
+    margin-top: 7%;
+}
+
+li.col-sm-3 {
+    height: 145px;
+}
+
+@media (max-width: 600px) {
+    #carousel-bounding-box {
+        display: none;
+    }
+    #filtermenu {
+        padding-top: 40px;
+    }
+    .thumbnail>img {
+        width: 100%;
+    }
+    body {
+        width: 100%;
+    }
+}
